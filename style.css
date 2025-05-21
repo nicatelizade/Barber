@@ -1,0 +1,291 @@
+.mainbody{
+    font-family: "Montserrat", sans-serif;
+}
+.header{
+    width: 100%;
+    height: 102px;
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+}
+.firstbackgroundimg{
+    background-image: url(./img/aboutusbackground.png);
+}
+.logo{
+    width: 130px;
+    height: 40px;
+    margin-top: 25px;
+}
+.headerlinks{
+    margin-top: 35px;
+    width: 308px;
+    height: 27px;
+    display: flex;
+    gap: 10px;
+}
+.headerlinks a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 6px 8px;
+}
+.headerlinks a:hover{
+    color: #b8a269;
+    border-bottom: 1px solid #b8a269;
+}
+.bookappointmentbutton{
+    border: none;
+    margin-top: 25px;
+    width: 228px;
+    height: 42px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #b8a269;
+}
+.aboutus{
+    width: 100%;
+    height: 792px;
+}
+.aboutuscontext{
+    width: 900px;
+    height: 400px;
+    padding-top: 15%;
+    margin: 0 auto;
+}
+.aboutuscontexth1{
+    font-size: 90px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.aboutuscontextp{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    width: 440px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.bookappointmentbuttonmid{
+    display: block;
+    border: none;
+    margin-top: 25px;
+    width: 228px;
+    height: 42px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #b8a269;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.welcomebarbershop{
+    width: 100%;
+    height: 855px;
+    background-color: #1a1a1a;
+}
+.welcomebarbershoph2{
+    display: block;
+    width: 650px;
+    margin: 0 auto;
+    padding-top: 40px;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+}
+.welcomebarbershopdiv{
+    width: 1450px;
+    height: 558px;
+    display: flex;
+    margin: 0 auto;
+    padding-top: 50px;
+    
+}
+.welcometobarberimg{
+    width: 725px;
+    height: 558px;
+}
+.welcometobarberrightdiv{
+    width: 665px;
+    height: 496px;
+    padding: 30px 0px 30px 30px;
+}
+.welcometobarbera{
+    font-size: 20px;
+    font-weight: 800;
+    color: #b8a269;
+    text-decoration: none;
+}
+.workinghours{
+    font-size: 36px;
+    color: white;
+    margin: 20px 0px 0px;
+    font-weight: 300;
+}
+.workinghourshr{
+    display: block;
+    width: 107px;
+    margin: 0;
+    margin-top: 20px;
+    border-color: #b8a269;
+}
+.workinghoursp{
+    color: white;
+    font-size: 20px;
+}
+.workinghoursp b{
+    padding-right: 100px;
+}
+.workinghoursi{
+    display: block;
+    color: white;
+    margin-top: 55px;
+}
+.workinghourshri{
+    width: 610px;
+    margin-top: 30px;
+    border-color: #b8a269;
+}
+.ourstory{
+    width: 100%;
+    height: 500px;
+    background-color: #1a1a1a;
+}
+.ourstoryh2{
+    width: 255px;
+    color: white;
+    font-size: 48px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.ourstory3div{
+    width: 1450px;
+    display: flex;
+    gap: 10px;
+    margin: 0 auto;
+}
+.ourstory3div div{
+    width: 416px;
+    height: 316px;
+    padding: 10px 30px;
+}
+.ourstory3div h3{
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+}
+.ourstory3div p{
+    color: #808080;
+    font-size: 18px;
+}
+.professionalbarbers{
+    background-color: #333;
+    width: 100%;
+    height: 1470px;
+}
+.makeyourawesomeness{
+    width: 400px;
+    color: white;
+    font-size: 20px;
+    margin: 0 auto;
+    padding-top: 40px;
+    font-weight: 300;
+}
+.makeyourawesomenessh2{
+    font-size: 48px;
+    color: white;
+    width: 682px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.barbers{
+    width: 1450px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+}
+.barbers div{
+    background-color: white;
+    width: 410px;
+    height: 490px;
+    padding: 30px;
+}
+.barbers img{
+    width: 410px;
+    height: 355px;
+    object-fit: cover;
+}
+.barbers h6{
+    font-size: 16px;
+    color: #b8a269;
+    margin: 20px 0px 0px;
+}
+.barbers h4{
+    font-size: 24px;
+    margin: 20px 0px 0px;
+}
+.icons{
+    display: flex;
+    margin: 30px 0px 0px;
+    gap: 20px;
+}
+.icons i{
+    color: #b8a269;
+}
+.premiumservices{
+    width: 100%;
+    height: 862px;
+    background-color: #1a1a1a;
+}
+.premiumservices h2{
+    width: 887px;
+    font-size: 48px;
+    color: white;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.premiumserviceslist{
+    width: 1450px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.buttonyellow{
+    padding: 10px 25px;
+    background-color: #b8a269;
+    border: none;
+}
+.buttonbrown{
+    padding: 10px 25px;
+    background-color: #4d4d4d;
+    color: white;
+    border: none;
+}
+.sample{
+    width: 1390px;
+    height: 468px;
+    padding: 30px;
+    margin: 0 auto;
+    background-color: white;
+}
+.sample img{
+    display: block;
+    width: 232px;
+    height: 232px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.sample p{
+    width: 770px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
